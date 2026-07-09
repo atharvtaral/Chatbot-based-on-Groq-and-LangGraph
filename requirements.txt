@@ -1,0 +1,8 @@
+python-dotenv
+typing_extensions
+langchain-core
+langchain
+langgraph
+openai
+langchain-groq
+gradio
